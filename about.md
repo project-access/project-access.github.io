@@ -21,7 +21,7 @@ super-Earths to hot-Jupiters.
 Our team is composed of scientists from different institutions around the world. The ACCESS 
 survey team is composed of:
 
-<ul class="skill-list">
+<ul class="columns" data-columns="2">
 	<li><a target="_blank" href="http://apai.space">Daniel Apai</a>, Co-PI (University of Arizona)</li>
         <li>Alex Bixel (University of Arizona)</li>
         <li><a target="_blank" href="http://www.nestor-espinoza.com/">Néstor Espinoza</a> (Max-Planck-Institut für Astronomie)</li>
