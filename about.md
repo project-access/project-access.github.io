@@ -1,41 +1,43 @@
----
+el ---
 title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+The <b> Arizona-Cfa-Catolica-Carnegie Exoplanet Spectroscopy Survey</b>, ACCESS, 
+is a multi-institutional collaboration initiated in 2014 aimed at exploring the 
+optical (0.35 – 1.0 μm) properties of exoplanet atmospheres using the technique of 
+transmission spectroscopy. 
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>To date, ACCESS has gathered over 40 transits using the IMACS multi-object 
+spectrographhtml  on the 6.5-m Magellan Baade Telescope at Las Campanas Observatory, which 
+is allowing us to put interesting constrains on the nature of exoplanet atmospheres from 
+super-Earths to hot-Jupiters. 
+</p>
 
-<h2>Skills</h2>
+<h2>The Team</h2>
+Our team is composed of scientists from different institutions around the world. The ACCESS 
+survey team is composed of:
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li><a href="http://apai.space">Daniel Apai</a>, Co-PI (University of Arizona)</li>
+        <li>Alex Bixel (University of Arizona)</li>
+        <li><a href="http://www.nestor-espinoza.com/">N&eacutestor Espinoza</a> (Max-Planck-Institut fur Astronomie)</li>
+        <li><a href="http://www.ucolick.org/~jfortney/">Jonathan Fortney</a> (University of California Santa Cruz)</li>
+        <li><a href="http://www.astro.umd.edu/~jfraine/simple/">Jonathan Fraine</a> (Space Telescope Science Institute)</li>
+	<li><a href="http://andres-jordan.io/">Andr&eacutes Jord&aacuten</a>, Co-PI (Pontificia Universidad Cat&oacutelica de Chile)</li>
+        <li><a href="http://www.stsci.edu/~nlewis/">Nikole Lewis</a> (Space Telescope Science Institute/Cornell University)</li>
+	<li><a href="https://www.cfa.harvard.edu/~mlopez/Webpage/Welcome.html">Mercedes Lopez-Morales</a>, Co-PI (Harvard-Smithsonian Center for Astrophysics)</li>
+        <li>Chima McGruder (Harvard-Smithsonian Center for Astrophysics)</li>
+        <li><a href="https://www.researchgate.net/profile/David_Osip">David Osip</a> (Carnegie Observartories at Washington)</li>
+        <li>Benjamin Rackham (University of Arizona)</li>
+        <li>Florian Rodler (European Southern Observatory)</li>
+        <li>Ian Weaver (Harvard-Smithsonian Center for Astrophysics)</li>
 </ul>
+
+
 
 <h2>Projects</h2>
 
