@@ -1,4 +1,4 @@
-e---
+---
 title: About
 layout: page
 ---
