@@ -12,7 +12,7 @@ transmission spectroscopy.
 </p>
 
 <p>To date, ACCESS has gathered over 40 transits using the IMACS multi-object 
-spectrographhtml  on the 6.5-m Magellan Baade Telescope at Las Campanas Observatory, which 
+spectrograph on the 6.5-m Magellan Baade Telescope at Las Campanas Observatory, which 
 is allowing us to put interesting constrains on the nature of exoplanet atmospheres from 
 super-Earths to hot-Jupiters. 
 </p>
