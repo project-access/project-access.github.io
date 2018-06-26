@@ -32,7 +32,7 @@ survey team is composed of:
 	<li><a target="_blank" href="https://www.cfa.harvard.edu/~mlopez/Webpage/Welcome.html">Mercedes Lopez-Morales</a>, Co-PI (Harvard-Smithsonian CfA)</li>
         <li>Chima McGruder (Harvard-Smithsonian CfA)</li>
         <li><a target="_blank" href="https://www.researchgate.net/profile/David_Osip">David Osip</a> (Carnegie Observartories at Washington)</li>
-        <li>Benjamin Rackham (University of Arizona)</li>
+	<li><a target="_blank" href="https://brackham.github.io/">Benjamin Rackham</a> (University of Arizona)</li>
         <li>Florian Rodler (European Southern Observatory)</li>
         <li>Ian Weaver (Harvard-Smithsonian CfA)</li>
 </ul>
