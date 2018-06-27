@@ -4,14 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>
+<p align="justify">
 The <b> Arizona-Cfa-Catolica-Carnegie Exoplanet Spectroscopy Survey</b>, ACCESS, 
 is a multi-institutional collaboration initiated in 2014 aimed at exploring the 
 optical (0.35 – 1.0 μm) properties of exoplanet atmospheres using the technique of 
 transmission spectroscopy. 
 </p>
 
-<p>To date, ACCESS has gathered over 40 transits using the IMACS multi-object 
+<p align="justify">To date, ACCESS has gathered over 40 transits using the IMACS multi-object 
 spectrograph on the 6.5-m Magellan Baade Telescope at Las Campanas Observatory, which 
 is allowing us to put interesting constrains on the nature of exoplanet atmospheres from 
 super-Earths to hot-Jupiters. 
