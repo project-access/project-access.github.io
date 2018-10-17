@@ -18,8 +18,7 @@ super-Earths to hot-Jupiters.
 </p>
 
 <h2>The Team</h2>
-Our team is composed of scientists from different institutions around the world. The ACCESS 
-survey team is composed of:
+Our team is composed of scientists from different institutions around the world. The ACCESS team is composed of:
 
 <ul class="columns" data-columns="2">
 	<li><a target="_blank" href="http://apai.space">Daniel Apai</a>, Co-PI (University of Arizona)</li>
