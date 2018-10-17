@@ -27,7 +27,7 @@ Our team is composed of scientists from different institutions around the world.
         <li><a target="_blank" href="http://www.ucolick.org/~jfortney/">Jonathan Fortney</a> (University of California Santa Cruz)</li>
         <li><a target="_blank" href="http://www.astro.umd.edu/~jfraine/simple/">Jonathan Fraine</a> (Space Telescope Science Institute)</li>
 	<li><a target="_blank" href="http://andres-jordan.io/">Andrés Jordán</a>, Co-PI (Pontificia Universidad Católica de Chile)</li>
-        <li><a target="_blank" href="http://www.stsci.edu/~nlewis/">Nikole Lewis</a> (Space Telescope Science Institute/Cornell University)</li>
+        <li><a target="_blank" href="https://astro.cornell.edu/nikole-lewis/">Nikole Lewis</a> (Cornell University)</li>
 	<li><a target="_blank" href="https://www.cfa.harvard.edu/~mlopez/Webpage/Welcome.html">Mercedes Lopez-Morales</a>, Co-PI (Harvard-Smithsonian CfA)</li>
         <li>Chima McGruder (Harvard-Smithsonian CfA)</li>
         <li><a target="_blank" href="https://www.researchgate.net/profile/David_Osip">David Osip</a> (Carnegie Observartories at Washington)</li>
